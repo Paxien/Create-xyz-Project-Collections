@@ -6,6 +6,27 @@
 
 This code is a React component for a **Database Viewer** application, where users can view tables from various databases, interact with table data, maintain a history of actions, and manage favorites.
 
+
+This React component lets you:
+ View tables from multiple databases in a clean interface.
+ Track your actions with interactive history for easy navigation.
+ Favorite databases and tables for quick access.
+ Import/export your history and favorites easily.
+ Pagination to handle large datasets effortlessly.
+
+Whether it's for a game, app, or project, this tool boosts your data management and efficiency!
+
+ How to Use:
+Just copy and paste the code into a new component in your project—no complicated setup needed!
+
+ Key Features:
+Clean UI for database viewing
+Favorites and history management
+Pagination support
+Import/export for seamless transitions
+
+ Live Demo: Check it out here
+ Remix it: Remix on Create.xyz
 ---
 
 ### **How to Use:**
