@@ -119,9 +119,6 @@ For more details, check out our [Contribution Guidelines](#contribution-guidelin
 
 ---
 
-## 📃 **License**
-This project is licensed under the MIT License. See the [LICENSE](link-to-license) file for details.
-
 ---
 
 > **Note:** This repository is a living document, and updates will be made frequently. Be sure to check back for new tools, components, functions, projects, and articles. Happy coding!
