@@ -1,8 +1,6 @@
 
+![Database Viewer Screenshot](https://github.com/user-attachments/assets/47bb1563-161c-449d-8d7e-839a20357713)
 
----
-
-## 📦 **Tools**
 
 ### **[Multi Database Viewer](https://github.com/Paxien/Create-xyz-Project-Collections/tree/main/Tools/Multi%20Database%20Viewer)**
 
@@ -14,13 +12,13 @@ This code is a React component for a **Database Viewer** application, where user
 
 This code was designed to allow **Create.xyz** users to easily copy and paste the code for reuse in their own projects. Simply copy and paste the code inside the [**Database Viewer JSX**](https://github.com/Paxien/Create-xyz-Project-Collections/blob/main/Tools/Multi%20Database%20Viewer/database%20viewer.jsx).
 
+> **Important:** Replace database names with your own database paths at the beginning of the code.
+
 ---
 
 ### **Breakdown of the Code:**
 
-![Database Viewer Screenshot](https://github.com/user-attachments/assets/47bb1563-161c-449d-8d7e-839a20357713)
 
----
 
 #### 1. **Imports and State Setup**
    - The component starts by importing `React` and initializing several state variables using `useState` to track:
@@ -119,10 +117,8 @@ For more details, check out our [Contribution Guidelines](#contribution-guidelin
 
 ---
 
----
-
 > **Note:** This repository is a living document, and updates will be made frequently. Be sure to check back for new tools, components, functions, projects, and articles. Happy coding!
 
 ---
 
-This should now be fully updated and formatted to your specifications! Let me know if any further adjustments are needed.
+Let me know if any further edits or adjustments are needed!
