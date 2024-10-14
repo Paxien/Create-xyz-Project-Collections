@@ -1,4 +1,4 @@
-
+https://github.com/Paxien/Create-xyz-Project-Collections/blob/main/Projects/Quick%20Definition%20Finder/gggg.PNG
 
 # Quick Definition Finder SPA (Template for Create.xyz Developers)
 
