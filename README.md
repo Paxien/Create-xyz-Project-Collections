@@ -1,6 +1,4 @@
-Got it! Here's the corrected markdown structure with the appropriate links to the folders in the format you're asking for. Now each section in the Table of Contents will link directly to the folder names (like in the GitHub example you provided).
 
----
 
 # **Create.xyz Library Collection**
 
