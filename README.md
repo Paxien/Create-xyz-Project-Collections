@@ -1,6 +1,3 @@
-Here's a template for your GitHub markdown file that covers your entire library collection of Create.xyz projects, categorized into different sections. This will help organize the content, provide useful links, and guide users through the collection:
-
----
 
 # **Create.xyz Library Collection**
 
