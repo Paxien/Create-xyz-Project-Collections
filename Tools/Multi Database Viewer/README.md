@@ -1,5 +1,15 @@
 
-This code is a React component for a **Database Viewer** application, where users can view tables from various databases, interact with table data, maintain a history of actions, and manage favorites. Here's a breakdown of how the code works:
+This code is a React component for a **Database Viewer** application, where users can view tables from various databases, interact with table data, maintain a history of actions, and manage favorites.
+
+How to use:
+This was deisgned to allow create users to copy and paste code to be resued in ther eown projects.
+
+
+
+
+
+
+Here's a breakdown of how the code works:
 
 ![xcc](https://github.com/user-attachments/assets/47bb1563-161c-449d-8d7e-839a20357713)
 
