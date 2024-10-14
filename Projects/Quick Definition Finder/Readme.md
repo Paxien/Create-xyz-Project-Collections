@@ -2,7 +2,7 @@
 ![gggg](https://github.com/user-attachments/assets/bf5b9f18-ef8f-4942-b0d4-d49ebb6a350c)
 
 # Quick Definition Finder SPA (Template for Create.xyz Developers)
-<iframe style="width: 100%;" height="569" src="https://www.create.xyz/app/f87caee9-9f48-4e84-bda8-c9ec6a61f8d4" title="New Page" frameBorder="0"></iframe>
+
 ## 📝 **Overview**
 The **Quick Definition Finder** is a single-page app designed to help users search for definitions and examples across different categories. This app uses the power of GPT models to fetch definitions and relevant examples based on user input.
 
