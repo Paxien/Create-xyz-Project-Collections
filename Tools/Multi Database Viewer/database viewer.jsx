@@ -4,9 +4,9 @@ import React from "react";
 
 
 const databases = [
-  "/api/db/new-project-users-211",
-  "/api/db/chatroom-logs",
-  "/api/db/crypto-price-tracker-users",
+  "/api/db/datab",
+  "/api/db/db12",
+  "/api/db/scrapped_data",
   "/api/db/ddb",
   "/api/db/datab",
   "/api/db/new_db1",
@@ -14,10 +14,7 @@ const databases = [
   "/api/db/db10",
   "/api/db/community-hub-page-users",
   "/api/db/unified-marketplace-platform-users",
-  "/api/db/unified-marketplace-database-users",
   "/api/db/data3",
-  "/api/db/db12",
-  "/api/db/scrapped_data",
   "/api/db/scrape_3",
   "/api/db/scrape_4",
   "/api/db/na1-home-page-users",
