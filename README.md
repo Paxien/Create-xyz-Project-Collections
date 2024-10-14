@@ -1,6 +1,6 @@
 
 This code is a React component for a **Database Viewer** application, where users can view tables from various databases, interact with table data, maintain a history of actions, and manage favorites. Here's a breakdown of how the code works:
-![Capture](https://github.com/user-attachments/assets/1df5e5b6-206f-425f-bc40-e31beefa87d4)
+
 ![xcc](https://github.com/user-attachments/assets/47bb1563-161c-449d-8d7e-839a20357713)
 
 ### 1. **Imports and State Setup**
