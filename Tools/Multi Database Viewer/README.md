@@ -25,8 +25,9 @@ Favorites and history management
 Pagination support
 Import/export for seamless transitions
 
- Live Demo: Check it out here
- Remix it: Remix on Create.xyz
+🔗 **Live Demo**: [Check it out here](https://monetization.created.app/database-viewer)  
+🔄 **Remix it**: [Remix on Create.xyz](https://www.create.xyz/share/25e52f4c-e0f7-43a9-9bda-e18501678461)
+
 ---
 
 ### **How to Use:**
