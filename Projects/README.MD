@@ -1,6 +1,4 @@
-Here’s a README tailored for the Create.xyz developers using this single-page app template:
 
----
 
 # Quick Definition Finder SPA (Template for Create.xyz Developers)
 
