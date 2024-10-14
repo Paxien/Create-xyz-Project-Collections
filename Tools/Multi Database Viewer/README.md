@@ -13,6 +13,7 @@ This code is a React component for a **Database Viewer** application, where user
 This code was designed to allow **Create.xyz** users to easily copy and paste the code for reuse in their own projects. Simply copy and paste the code inside the [**Database Viewer JSX**](https://github.com/Paxien/Create-xyz-Project-Collections/blob/main/Tools/Multi%20Database%20Viewer/database%20viewer.jsx).
 
 > **Important:** Replace database names with your own database paths at the beginning of the code.
+![ff](https://github.com/user-attachments/assets/58bb0171-ddb4-42c1-929e-a5f0a9506006)
 
 ---
 
